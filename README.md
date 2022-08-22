@@ -1,1 +1,1 @@
-# Eater-Game-
+# Eater
