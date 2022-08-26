@@ -1,8 +1,6 @@
 import pygame
 import random
-import tkinter
 import os
-from tkinter.constants import *
 pygame.init()
 pygame.mixer.init()
 
@@ -145,8 +143,4 @@ def gameloop():
     pygame.quit()
 
 welcome() 
-           
-
-
-
-
+          
